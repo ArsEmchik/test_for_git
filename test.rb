@@ -1,0 +1,1 @@
+str = 'added some text'
